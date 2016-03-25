@@ -1,0 +1,1 @@
+This is my first demo cum real planned module, which I will continue to work on. For now please consider it as a way to showcase that I am interested in OPENMRS.
